@@ -9,3 +9,10 @@ Remote --GitHub
 login
 create a repository name same as project
 copy code from github 
+
+
+working repo
+git checkout -b branch name initials/name to get a branch
+git add . 
+git commit -m "message"
+git push -u origin main
