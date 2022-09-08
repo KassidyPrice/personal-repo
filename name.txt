@@ -1,1 +1,11 @@
 my name is Kassidy
+
+workflow
+new repo
+git init
+git add .
+git commit -m "initial commit"
+Remote --GitHub
+login
+create a repository name same as project
+copy code from github 
