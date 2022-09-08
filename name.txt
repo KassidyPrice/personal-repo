@@ -12,7 +12,13 @@ copy code from github
 
 
 working repo
+new feature
 git checkout -b branch name initials/name to get a branch
+git add . 
+git commit -m "message"
+git push -u origin main
+
+current feature 
 git add . 
 git commit -m "message"
 git push -u origin main
